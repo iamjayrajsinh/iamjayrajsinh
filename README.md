@@ -14,13 +14,14 @@
 
 <hr/>
 
-<details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+
+  <b>:computer: &nbsp;Main tech knowledge</b>
   <br/>
 
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
   ![jQuery](https://img.shields.io/badge/JQUERY-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
   ![WordPress](https://img.shields.io/badge/WORDPRESS-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
@@ -34,39 +35,17 @@
   ![Visual Studio Code](https://img.shields.io/badge/VSCODE-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
   ![Sublime Text](https://img.shields.io/badge/SUBLIME-%23575757.svg?style=flat&logo=sublime-text&logoColor=important)
   
-</details>
-
-
-<details>
-  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
-  <br/>
-
- ![MongoDB](https://img.shields.io/badge/MONGODB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
- ![Express.js](https://img.shields.io/badge/EXPRESS.JS-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
- ![React](https://img.shields.io/badge/REACTJS-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
- ![NodeJS](https://img.shields.io/badge/NODEJS-6DA55F?style=flat&logo=node.js&logoColor=white)
- ![Vue.js](https://img.shields.io/badge/VUEJS-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
- ![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
- ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
- ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat&logo=linux&logoColor=black)
-
-</details>
 
 
 
-<details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <b>:gear: &nbsp;GitHub Statistics</b>
   <br/>
     <p align="left">
       <img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamjayrajsinh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
       <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjayrajsinh&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
-</details>
 
-<hr/>
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=iamjayrajsinh&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/iamjayrajsinh/iamjayrajsinh?color=black&logo=github" />
+<p align="center">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/iamjayrajsinh/onimur.svg" />
 </p>
+
