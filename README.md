@@ -46,6 +46,6 @@
     </p>
 
 <p align="right">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/iamjayrajsinh/onimur.svg" />
+ <img src="https://komarev.com/ghpvc/?username=iamjayrajsinh&style=for-the-badge&label=Views"><img>
 </p>
 
