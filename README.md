@@ -1,6 +1,6 @@
 <h1>Hi There, I'm Jayrajsinh Solanki <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
- &nbsp;Currently working as a Software Engineer at [Folium Infotech](https://www.foliuminfotech.com/).
+ &nbsp;Currently Working as a Full Stack Web Developer at [Folium Infotech](https://www.foliuminfotech.com/).
  
  <p align="left">
   <a href="https://join.skype.com/invite/xABrNftvFLqM"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" /></a>
