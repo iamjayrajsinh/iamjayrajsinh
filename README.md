@@ -45,7 +45,7 @@
       <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjayrajsinh&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 
-<p align="center">
+<p align="right">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/iamjayrajsinh/onimur.svg" />
 </p>
 
